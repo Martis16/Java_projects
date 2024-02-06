@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Lab3Burneika"},{"l":"laborai.demo"},{"l":"laborai.gui"},{"l":"laborai.gui.swing"},{"l":"laborai.studijos.ktu"}];updateSearchResults();

@@ -1,0 +1,11 @@
+Cristiano Ronaldo 1985 186 82 9.2 
+Lionel Messi 1988 169 70 9.4 
+Christian Eriksen 1990 175 78 7.4 
+Erling Haalland 1999 190 84 8.9 
+Eden Hazard 1990 175 73 6.6 
+Romelu Lukaku 1992 189 86 8.5 
+Phil Foden 1999 176 75 7.8
+Eden Hazard 1970 178 70 8.6 
+Romelu Lukaku 1982 190 84 9.5 
+Eden Hazard 1999 180 53 6.6 
+

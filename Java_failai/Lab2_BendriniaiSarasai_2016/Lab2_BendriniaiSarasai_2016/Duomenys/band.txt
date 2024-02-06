@@ -1,0 +1,5 @@
+Cristiano Ronaldo  1985   185,0     80,0      9,0 
+Kevin    De Bruyne 1998   189,0     88,0      8,9 
+Erling   Halland  1998   189,0     88,0      8,9 
+Romelu   Lukaku   1994   190,0     90,0      8,4 
+Kevin    De Bruyne 1998   189,0     88,0      8,9 
